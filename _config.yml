@@ -16,17 +16,24 @@
 title: Eduardo Vioque's
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website, I will share content around programming, and machine learning.
+  This is my personal website, where I will share content about programming, and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  vioquedu
+linkedIn: in/eduardo-vioque-martínez-3627b5a5/
+
+highlighter: rouge
 
 # Build settings
 markdown: kramdown
-theme: minima
+sidebar_home_link: true
+theme: jekyll-theme-hydeout
+paginate: 5
 plugins:
-  - jekyll-feed
+# - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
