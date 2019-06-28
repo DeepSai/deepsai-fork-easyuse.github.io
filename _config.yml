@@ -29,6 +29,7 @@ highlighter: rouge
 markdown: kramdown
 sidebar_home_link: true
 theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 paginate: 5
 plugins:
 # - jekyll-feed
