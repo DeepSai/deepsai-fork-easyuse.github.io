@@ -5,7 +5,7 @@ date:   2019-07-01
 categories: data-visual
 ---
 
-# seaborn heatmap
+## seaborn heatmap
 ```python
 %matplotlib inline
 
