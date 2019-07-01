@@ -1,7 +1,7 @@
 ---
 layout: category
 title: About
-permalink: /resume/
+permalink: /about/
 ---
 
 ## Experience
