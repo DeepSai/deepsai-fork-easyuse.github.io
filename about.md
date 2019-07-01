@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Resume
+title: About
 permalink: /resume/
 ---
 
