@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "数据可视化"
+title:  "Data Visualization"
 date:   2019-07-01
-categories: data-visualization
+categories: data-visual
 ---
 
 # seaborn heatmap
@@ -24,3 +24,4 @@ print(data)
  [0.40120982 0.7955449  0.74902682 0.28705992]]
 ```
 ![](./data-visual/data-visual-heatmap.png)
+![](https://deepsai.github.io/data-visual/data-visual-heatmap.png)
