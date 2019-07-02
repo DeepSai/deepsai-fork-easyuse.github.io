@@ -29,9 +29,9 @@ sns.heatmap(data, vmin=0.2, vmax=0.5);
 data = np.random.randn(4,4);print(data)
 sns.heatmap(data, center=0);
 ```
-![](/assets/images/sns-heatmap01.png)
-![](/assets/images/sns-heatmap02.png)
-![](/assets/images/sns-heatmap03.png)
+![sns-heatmap](/assets/images/sns-heatmap01.png)
+![sns-heatmap](/assets/images/sns-heatmap02.png)
+![sns-heatmap](/assets/images/sns-heatmap03.png)
 
 
 ```python
@@ -61,8 +61,8 @@ ax = sns.heatmap(flight, linewidth=.2)
 # f4: 设置调色板
 ax = sns.heatmap(flight, cmap="YlGnBu")
 ```
-![](/assets/images/sns-heatmap04.png)
-![](/assets/images/sns-heatmap05.png)
-![](/assets/images/sns-heatmap06.png)
-![](/assets/images/sns-heatmap07.png)
+![sns-heatmap](/assets/images/sns-heatmap04.png)
+![sns-heatmap](/assets/images/sns-heatmap05.png)
+![sns-heatmap](/assets/images/sns-heatmap06.png)
+![sns-heatmap](/assets/images/sns-heatmap07.png)
 
