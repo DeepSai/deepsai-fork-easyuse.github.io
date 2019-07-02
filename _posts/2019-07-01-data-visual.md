@@ -25,5 +25,5 @@ print(data)
 ```
 ![](data-visual/data-visual-heatmap.png)
 
-test:
-<img src="data-visual/data-visual-heatmap.png">
+### test
+![](/assets/images/data-visual-heatmap01.jpg)
