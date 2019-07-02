@@ -23,5 +23,7 @@ print(data)
  [0.98989239 0.63482035 0.76583562 0.45823605]
  [0.40120982 0.7955449  0.74902682 0.28705992]]
 ```
-![](./data-visual/data-visual-heatmap.png)
-![](https://deepsai.github.io/_posts/data-visual/data-visual-heatmap.png)
+![](data-visual/data-visual-heatmap.png)
+
+test:
+<img src="data-visual/data-visual-heatmap.png">
