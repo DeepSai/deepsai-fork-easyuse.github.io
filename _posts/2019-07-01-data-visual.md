@@ -61,8 +61,8 @@ ax = sns.heatmap(flight, linewidth=.2)
 # f4: 设置调色板
 ax = sns.heatmap(flight, cmap="YlGnBu")
 ```
-![](assets/images/sns-heatmap04.png)
-![](assets/images/sns-heatmap05.png)
-![](assets/images/sns-heatmap06.png)
-![](assets/images/sns-heatmap07.png)
+![](/assets/images/sns-heatmap04.png)
+![](/assets/images/sns-heatmap05.png)
+![](/assets/images/sns-heatmap06.png)
+![](/assets/images/sns-heatmap07.png)
 
