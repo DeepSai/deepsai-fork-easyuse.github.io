@@ -26,4 +26,4 @@ print(data)
 ![](data-visual/data-visual-heatmap.png)
 
 ### test
-![](/assets/images/data-visual-heatmap01.jpg)
+![](/assets/images/data-visual-heatmap01.png)
