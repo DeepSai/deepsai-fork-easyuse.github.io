@@ -29,9 +29,9 @@ sns.heatmap(data, vmin=0.2, vmax=0.5);
 data = np.random.randn(4,4);print(data)
 sns.heatmap(data, center=0);
 ```
-![](assets/images/sns-heatmap01.png)
-![](assets/images/sns-heatmap02.png)
-![](assets/images/sns-heatmap03.png)
+![](/assets/images/sns-heatmap01.png)
+![](/assets/images/sns-heatmap02.png)
+![](/assets/images/sns-heatmap03.png)
 
 
 ```python
